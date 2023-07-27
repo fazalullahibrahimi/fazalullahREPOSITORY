@@ -1,0 +1,73 @@
+.one1{
+    color: rgb(11, 184, 155);
+    text-align: center;
+    text-decoration: underline;
+    font-weight: lighter;
+    font-family:Algerian;
+    font-size: 50px;
+    text-transform: uppercase;
+
+   
+}
+
+
+
+.div1{
+ background-color: rgb(222, 135, 154);
+width: 400px;
+height: 200px;
+margin: 30px;
+display: inline-block;
+position: relative;
+z-index: -10;
+
+}
+.div2{
+    background-color: rgb(135, 222, 210);
+    width: 400px;
+    height: 200px;
+    margin: 30px;
+    display: inline-block;
+    position: sticky;
+    left: 100px; 
+    top: 10px;
+    z-index:5 ;
+
+   
+
+ 
+}
+.div3{
+    background-color: rgb(166, 135, 222);
+    width: 400px;
+    height: 200px;
+    margin: 30px;
+    display: inline-block;
+    position:relative;
+ 
+}
+img{
+    width: 200px;
+    height: 150px;
+    position: fixed;
+    top:  0;
+    left: 100px;
+    bottom: 100px;
+    z-index: -1;
+
+}
+.one{
+    background-color: rgb(15, 153, 153)
+}
+.one{
+    position: relative;
+    bottom:350px;
+    
+}
+.two{
+    position: relative;
+   top: 300px;
+   background-color: beige;
+   
+    
+}
